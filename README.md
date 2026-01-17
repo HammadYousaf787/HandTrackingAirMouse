@@ -8,10 +8,15 @@ try to have a darker clear backhround for efficient handtracking
 # Controls
 
 **left hand**
+
 victory - right click
+
 fist - left click
+
 thumbs up - scroll up
+
 thumbs down - scroll down
 
 **right hand**
+
 index finger - cursor movement
